@@ -24,7 +24,9 @@
     · 🔗 https://github.com/divrit/UniDostFE
   - Backend: Spring Boot
     · 🔗 https://github.com/divrit/UniDostBE
-
+- **ChatGPT Voice Assistant Chrome Extension**
+ - Link
+    · 🔗 https://github.com/divrit/ChatGPT-with-voice-Assistant
 ---
 
 ### 🧰 Tech Stack (Core)
