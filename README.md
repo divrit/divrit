@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I am Divrit Saini</h1>
 <h3 align="center">Software Development Engineer · Amazon · Master’s @ Arizona State University (Sundevil)</h3>
+<p align="center"><img height="auto" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/></p>
 
 <p align="center">
   <a href="https://www.divritsaini.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-24292e?logo=firefox-browser&logoColor=white"></a>
@@ -23,9 +24,6 @@
     🔗 https://github.com/divrit/UniDostFE
   - Backend: Spring Boot · Deployed on EC2  
     🔗 https://github.com/divrit/UniDostBE
-- **ChatGPT Voice Assistant – Chrome Extension**  
-  JavaScript · Speech Recognition · OpenAI API  
-  🔗 (add your repo link if public)
 
 ---
 
@@ -39,8 +37,6 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"/>
 </p>
-
-> *I intentionally kept this list short for readability. If you want the long wall of badges, I can add an expandable section.*
 
 ---
 
