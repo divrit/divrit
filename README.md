@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I am Divrit Saini. ![AWS Certified](https://img.shields.io/badge/AWS%20Certified-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+<h1 align="center">Hi 👋, I am Divrit Saini. 
 </h1>
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS%20Certified-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Badge">
+</div>
 <h3 align="center">Software Development Engineer · Amazon · Master’s @ Arizona State University (Sundevil)</h3>
 
 <p align="center"><img height="auto" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/></p>
