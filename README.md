@@ -12,7 +12,7 @@
 ---
 
 ### 🙋‍♂️ About Me
-- Software Development Engineer working on customer communications and platform workflows in the Alexa domain.
+- I enjoy diving deep into backend architecture, building clean APIs, and ensuring the systems I design are reliable, scalable, and maintainable.
 - Passionate about cloud-native systems, clean backend APIs, and pragmatic frontend engineering.
 - I built **UniDost**, a full-stack platform for students to share apartments, travel, and phone plans.
 
