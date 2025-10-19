@@ -20,9 +20,9 @@
 
 ### 🔭 Featured Projects
 - **UniDost – Student Networking & Plan Sharing**
-  - Frontend: Angular · Hosted on S3  
+  - Frontend: Angular · 
     🔗 https://github.com/divrit/UniDostFE
-  - Backend: Spring Boot · Deployed on EC2  
+  - Backend: Spring Boot ·   
     🔗 https://github.com/divrit/UniDostBE
 
 ---
